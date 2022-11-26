@@ -41,6 +41,20 @@
             ]
         },
         {
+            "title": "Currency Converter",
+            "description": "Get fast and easy calculator for converting one currency to another using the latest live exchange rates.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/204077099-f18119f5-86f1-40bd-ade3-8401462b5cd5.png",
+            "liveDemoLink": "https://currency-converter-live-app.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Currency-Converter",
+            "badge": [
+                "React Js",
+                "Javascript",
+                "Bootstrap",
+                "API",
+                "Chakra UI"
+            ]
+        },
+        {
             "title": "Kiks Square Store",
             "description": "Shoes store web app project using HTML, CSS, and Javascript which displays a many-to-many relationship using API by connecting shoes brands to shoe stores.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/198543708-0ef49b41-5385-48fe-9b6a-2a3f58cd6e1c.png",
