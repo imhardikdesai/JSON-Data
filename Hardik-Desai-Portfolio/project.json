@@ -1,14 +1,48 @@
 {
     "projects": [
         {
+            "title": "Quiz App",
+            "description": "An Quiz website where you can enhance your knowledge",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/206421044-c0c5acd7-05ec-4dd2-8bd0-acf9fe6eb9c5.png",
+            "liveDemoLink": "https://ask-quiz.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Quiz-App",
+            "badge": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React Js",
+                "Bootstrap",
+                "Chakra UI",
+                "API"
+            ]
+        },
+        {
+            "title": "Nutrition Meter",
+            "description": "An website which compare two fruits Nutrition Data in Different type of Charts",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/206421056-d05a3abd-7ea3-4504-8cd5-f7803e4dae43.png",
+            "liveDemoLink": "https://nutritions-meter.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Nutritions-Meter",
+            "badge": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "React Js",
+                "Bootstrap",
+                "Chakra UI",
+                "API"
+            ]
+        },
+        {
             "title": "Weather Finder",
             "description": "A React weather app where the user can get real-time weather information for any city 🌦️",
             "imgurl": "https://user-images.githubusercontent.com/87645745/198541198-19ab97e1-4941-40ae-82cb-1f121050541f.png",
             "liveDemoLink": "https://weather-finder-app-react.netlify.app/",
             "sourceLink": "https://github.com/imhardikdesai/Weather-App-React",
             "badge": [
+                "HTML",
+                "CSS",
+                "JavaScript",
                 "React Js",
-                "Javascript",
                 "Bootstrap",
                 "API"
             ]
@@ -43,7 +77,7 @@
         {
             "title": "Currency Converter",
             "description": "Get fast and easy calculator for converting one currency to another using the latest live exchange rates.",
-            "imgurl": "https://user-images.githubusercontent.com/87645745/204077099-f18119f5-86f1-40bd-ade3-8401462b5cd5.png",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/206421052-504487be-d932-4655-860d-77f72f8c628d.png",
             "liveDemoLink": "https://currency-converter-live-app.netlify.app/",
             "sourceLink": "https://github.com/imhardikdesai/Currency-Converter",
             "badge": [
@@ -123,18 +157,6 @@
             ]
         },
         {
-            "title": "Realtime Clock",
-            "description": "Basically, I made simple Analog clock using JavaScript. Shows Current time.",
-            "imgurl": "https://user-images.githubusercontent.com/87645745/180635630-33a6f094-1b69-4cda-a769-fa3dba682eeb.png",
-            "liveDemoLink": "https://imhardikdesai.github.io/real-time-clock/",
-            "sourceLink": "https://github.com/imhardikdesai/real-time-clock",
-            "badge": [
-                "HTML",
-                "CSS",
-                "Javascript"
-            ]
-        },
-        {
             "title": "Guess the Number Game",
             "description": "In this Game Computer will guess the number between 1 to 100. And your task is to find that number in 10 Chance.",
             "imgurl": "https://user-images.githubusercontent.com/87645745/180635615-f7338270-ef1d-417d-89f5-321489f9b5bf.png",
@@ -144,18 +166,6 @@
                 "HTML",
                 "CSS",
                 "Javascript"
-            ]
-        },
-        {
-            "title": "Notes App Android",
-            "description": "Notes App Will collect your task as a note. You can add title and content. also you can save changes in firebase. This app will provide authentication to user, also give facility to recover password.",
-            "imgurl": "https://user-images.githubusercontent.com/87645745/180635628-f74f313e-22b9-4a11-88c3-48f412d82816.png",
-            "liveDemoLink": "https://github.com/imhardikdesai/notes-app-android",
-            "sourceLink": "https://github.com/imhardikdesai/notes-app-android",
-            "badge": [
-                "Android",
-                "Firebase",
-                "JAVA"
             ]
         },
         {
@@ -170,6 +180,18 @@
                 "Javascript",
                 "Bootstrap",
                 "API"
+            ]
+        },
+        {
+            "title": "Notes App Android",
+            "description": "Notes App Will collect your task as a note. You can add title and content. also you can save changes in firebase. This app will provide authentication to user, also give facility to recover password.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/180635628-f74f313e-22b9-4a11-88c3-48f412d82816.png",
+            "liveDemoLink": "https://github.com/imhardikdesai/notes-app-android",
+            "sourceLink": "https://github.com/imhardikdesai/notes-app-android",
+            "badge": [
+                "Android",
+                "Firebase",
+                "JAVA"
             ]
         }
     ]
