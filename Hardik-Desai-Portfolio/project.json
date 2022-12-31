@@ -1,6 +1,21 @@
 {
     "projects": [
         {
+            "title": "Resume Builder",
+            "description": "A web app that allows users to create a resume by filling out a form.",
+            "imgurl": "https://user-images.githubusercontent.com/87645745/210126240-dd1a62d0-78f9-429a-9a14-ac865091b8c3.png",
+            "liveDemoLink": "https://quick-resume.netlify.app/",
+            "sourceLink": "https://github.com/imhardikdesai/Resume-Builder",
+            "badge": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React Js",
+                "Bootstrap",
+                "Chakra UI"
+            ]
+        },
+        {
             "title": "Quiz App",
             "description": "An Quiz website where you can enhance your knowledge",
             "imgurl": "https://user-images.githubusercontent.com/87645745/206421044-c0c5acd7-05ec-4dd2-8bd0-acf9fe6eb9c5.png",
