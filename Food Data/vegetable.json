@@ -1,0 +1,228 @@
+{
+  "vegetable": [
+    {
+      "name": "Cabbage",
+      "photo_url": "https://www.freepngimg.com/thumb/categories/2970.png",
+      "quantity": "One Unit",
+      "id": 1,
+      "price": 30
+    },
+    {
+      "name": "Capsicum",
+      "photo_url": "https://www.nicepng.com/png/detail/52-525615_green-bell-pepper-png-green-capsicum-png.png",
+      "quantity": "One Unit",
+      "id": 2,
+      "price": 5
+    },
+    {
+      "name": "Garlic",
+      "photo_url": "https://www.freepngimg.com/thumb/garlic/2-2-garlic-transparent-thumb.png",
+      "quantity": "One Unit",
+      "id": 3,
+      "price": 20
+    },
+    {
+      "name": "Beetroot",
+      "photo_url": "https://pngimg.com/uploads/beet/beet_PNG28.png",
+      "quantity": "One Unit",
+      "id": 4,
+      "price": 20
+    },
+    {
+      "name": "Tomatoes",
+      "photo_url": "https://www.freepngimg.com/thumb/categories/2985.png",
+      "quantity": "One Unit",
+      "id": 5,
+      "price": 5
+    },
+    {
+      "name": "Celeriac",
+      "photo_url": "https://w7.pngwing.com/pngs/252/146/png-transparent-celeriac-leaf-vegetable-food-celery-herbes-leaf-vegetable-food-plant-stem-thumbnail.png",
+      "quantity": "One Bunch",
+      "id": 6,
+      "price": 25
+    },
+    {
+      "name": "Carrots",
+      "photo_url": "https://www.freepngimg.com/thumb/categories/2971.png",
+      "quantity": "One Kg",
+      "id": 7,
+      "price": 60
+    },
+    {
+      "name": "Onions",
+      "photo_url": "https://www.freepngimg.com/thumb/onion/10-red-onion-png-image-thumb.png",
+      "quantity": "One Kg",
+      "id": 8,
+      "price": 120
+    },
+    {
+      "name": "Potatoes",
+      "photo_url": "https://www.freepngimg.com/thumb/potato/7-potato-png-images-pictures-download-thumb.png",
+      "quantity": "One container",
+      "id": 9,
+      "price": 80
+    },
+    {
+      "name": "Broccoli",
+      "photo_url": "https://freepngimg.com/thumb/broccoli/7-2-broccoli-png-image.png",
+      "quantity": "One Unit",
+      "id": 10,
+      "price": 25
+    },
+    {
+      "name": "Spinach",
+      "photo_url": "https://freepngimg.com/thumb/lettuce/154250-lettuce-green-download-free-image.png",
+      "quantity": "One Bunch",
+      "id": 11,
+      "price": 15
+    },
+    {
+      "name": "Cauliflower",
+      "photo_url": "https://freepngimg.com/thumb/cauliflower/24599-3-cauliflower-image.png",
+      "quantity": "One Unit",
+      "id": 12,
+      "price": 40
+    },
+    {
+      "name": "Grapes",
+      "photo_url": "https://w7.pngwing.com/pngs/44/84/png-transparent-purple-grape-purple-grape-grape-leaves.png",
+      "quantity": "One Kg",
+      "id": 13,
+      "price": 100
+    },
+    {
+      "name": "Watermelon",
+      "photo_url": "https://w7.pngwing.com/pngs/3/669/png-transparent-watermelon-seed-fruit-vegetable-watermelon-watermelon-food-sweetness-melon.png",
+      "quantity": "One Unit",
+      "id": 14,
+      "price": 50
+    },
+    {
+      "name": "Oranges",
+      "photo_url": "https://www.freepngimg.com/thumb/categories/2969.png",
+      "quantity": "One Kg",
+      "id": 15,
+      "price": 80
+    },
+    {
+      "name": "Bananas",
+      "photo_url": "https://freepngimg.com/thumb/banana/13-banana-png-image-bananas-picture-download.png",
+      "quantity": "One Bunch",
+      "id": 16,
+      "price": 30
+    },
+    {
+      "name": "Mushrooms",
+      "photo_url": "https://w7.pngwing.com/pngs/58/695/png-transparent-mushroom-lot-common-mushroom-shiitake-food-fungus-physical-graphy-mushrooms-brown-photography-tomato.png",
+      "quantity": "One Container",
+      "id": 17,
+      "price": 36
+    },
+    {
+      "name": "Bell Pepper",
+      "photo_url": "https://w7.pngwing.com/pngs/566/771/png-transparent-chili-pepper-yellow-pepper-friggitello-bell-pepper-paprika-vegetable-natural-foods-food-photography.png",
+      "quantity": "One Unit",
+      "id": 18,
+      "price": 15
+    },
+    {
+      "name": "Cucumber",
+      "photo_url": "https://w7.pngwing.com/pngs/201/314/png-transparent-sliced-cucumbers-cucumber-extract-vegetable-salad-food-cucumber-natural-foods-tomato-melon.png",
+      "quantity": "One Unit",
+      "id": 19,
+      "price": 10
+    },
+    {
+      "name": "Eggplant",
+      "photo_url": "https://e7.pngegg.com/pngimages/880/523/png-clipart-dal-kuku-eggplant-kashk-e-bademjan-vegetable-eggplant-purple-natural-foods.png",
+      "quantity": "One Unit",
+      "id": 20,
+      "price": 25
+    },
+    {
+      "name": "Muskmelon",
+      "photo_url": "https://w7.pngwing.com/pngs/144/134/png-transparent-cantaloupe-honeydew-melon-fruit-salad-wax-gourd-melon-food-orange-fruit-salad.png",
+      "quantity": "One Kg",
+      "id": 21,
+      "price": 90
+    },
+    {
+      "name": "Pineapple",
+      "photo_url": "https://w7.pngwing.com/pngs/9/79/png-transparent-pineapple-fruit-pineapple-pineapple-fruit-pineapple-clipart-thumbnail.png",
+      "quantity": "One Unit",
+      "id": 22,
+      "price": 40
+    },
+    {
+      "name": "Ginger",
+      "photo_url": "https://w7.pngwing.com/pngs/352/978/png-transparent-ginger-tea-green-tea-indian-cuisine-ginger-root-food-tea-turmeric.png",
+      "quantity": "100g",
+      "id": 23,
+      "price": 5
+    },
+    {
+      "name": "Pumpkin",
+      "photo_url": "https://w7.pngwing.com/pngs/316/726/png-transparent-orange-pumpkin-cucurbita-pepo-pumpkin-cucurbita-maxima-pumpkin-orange-gourd-fruit.png",
+      "quantity": "One Unit",
+      "id": 24,
+      "price": 30
+    },
+    {
+      "name": "Kiwi",
+      "photo_url": "https://png.pngtree.com/png-clipart/20191115/ourmid/pngtree-fresh-kiwi-fruits-isolated-on-transparent-png-image_1952934.jpg",
+      "quantity": "One Kg",
+      "id": 25,
+      "price": 120
+    },
+    {
+      "name": "Strawberries",
+      "photo_url": "https://w7.pngwing.com/pngs/983/762/png-transparent-strawberry-fruit-strawberry-strawberry-clipart-thumbnail.png",
+      "quantity": "One Punnet",
+      "id": 26,
+      "price": 15
+    },
+    {
+      "name": "Kale",
+      "photo_url": "https://w7.pngwing.com/pngs/152/4/png-transparent-minestrone-kale-leaf-vegetable-smoothie-kale-food-spinach-cabbage-thumbnail.png",
+      "quantity": "One Bunch",
+      "id": 27,
+      "price": 15
+    },
+    {
+      "name": "Mango",
+      "photo_url": "https://w7.pngwing.com/pngs/824/573/png-transparent-alphonso-mango-mangifera-indica-totapuri-juice-mango-natural-foods-food-orange.png",
+      "quantity": "One Unit",
+      "id": 28,
+      "price": 40
+    },
+    {
+      "name": "Apple",
+      "photo_url": "https://w7.pngwing.com/pngs/265/75/png-transparent-ipod-touch-apple-icon-format-icon-large-red-apples-closeup-of-red-apples-natural-foods-food-eating.png",
+      "quantity": "One Kg",
+      "id": 29,
+      "price": 40
+    },
+    {
+      "name": "Coriander",
+      "photo_url": "https://cdn.imgbin.com/21/0/8/imgbin-celery-vegetable-parsley-coriander-herb-vegetable-bunch-of-parsley-Vd1U84ADSeYdPp5NHBAA4SvVK.jpg",
+      "quantity": "One Kg",
+      "id": 30,
+      "price": 80
+    },
+    {
+      "name": "Orange",
+      "photo_url": "https://w7.pngwing.com/pngs/1001/506/png-transparent-slices-of-oranges-orange-juice-flavor-fruit-nutritious-orange-natural-foods-food-orange.png",
+      "quantity": "One Kg",
+      "id": 31,
+      "price": 180
+    },
+    {
+      "name": "Methi",
+      "photo_url": "https://w7.pngwing.com/pngs/801/155/png-transparent-fenugreek-indian-cuisine-ghormeh-sabzi-callaloo-leaf-vegetable-coriander-leaf-spinach-spring-greens-thumbnail.png",
+      "quantity": "One Kg",
+      "id": 32,
+      "price": 340
+    }
+  ]
+}
